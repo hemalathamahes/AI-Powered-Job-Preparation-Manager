@@ -1,0 +1,6 @@
+{
+  "name": "Job Preparation Manager",
+  "description": "A modern AI-powered job preparation manager with task workflows, application tracking, interview simulator, resume analyzer, study planner, and AI career assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
